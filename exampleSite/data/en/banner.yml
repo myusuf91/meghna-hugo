@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Lab971! Here goes your Hero Line
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Landscape Architecture Bureau 971
+  content: "We create designs for your outdoor and indoor spaces. As modern day architects,
+    we take care of it all. \nDESIGN + BUILD"
   button:
     enable: true
     label: Explore Us
